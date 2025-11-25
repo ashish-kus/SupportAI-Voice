@@ -65,8 +65,8 @@ Perfect for exploring how voice agents can assist with technical documentation.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/rag_tutorials/voice_rag_openaisdk
+git clone https://github.com/ashish-kus/CustomerSupport_Voice_agent
+cd CustomerSupport_Voice_agent/
 ```
 
 ### 2. Install dependencies
